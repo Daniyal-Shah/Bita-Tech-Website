@@ -1,0 +1,61 @@
+body
+{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.container1
+{
+    background-color:#EEEEEE;
+
+}
+.container2
+{
+    background-color: #0D2234; 
+    color: white;
+}
+
+.container1 .col
+{
+    border:solid 1px #ffffff ;
+    margin: 20px 40px 20px;
+    background-color: #ffffff;
+    padding: 10px;
+    
+}
+.container1 .col:hover
+{
+
+    background-color:#0D2234;
+    color:white;
+    transform: scale(1.2);
+    transition: all .3s ease-in-out;
+}
+
+.ser
+{
+    height: 1.5cm;
+    width: 1.5cm;
+}
+
+.touch
+{
+background-color: #0D2234;
+color: white;
+
+}
+
+.container3
+{
+    margin: 20px 5px 20px;
+}
+i:hover
+{
+color:darkgray;
+
+}
+.card-col:hover
+{
+  
+}
+.img2{
+  }
